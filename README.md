@@ -1,6 +1,16 @@
 ### Hello Everyone !! 👋 <h1>
 
 Me chamo Samuel Hyrum, atualmente estou estudando Desenvolvimento WEB Full-Stack na Trybe!! Sou apaixonado por Tecnologia e estou adorando aprender mais a cada dia, a fim de tornar a vida das pessoas por meio de tecnologia. Ansioso e feliz sempre pelo proximo passo!! 🖥️
+ 
+ <br>
+ <br>
+
+ 
+ <div align="center">
+  <a href="https://github.com/Samuelhyrum">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelhyrum&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+</div>
 
 ### Technologies and Tools !! 🚀 <h1>
  
