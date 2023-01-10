@@ -34,6 +34,4 @@ Me chamo Samuel Hyrum, atualmente estou estudando Desenvolvimento WEB Full-Stack
 ### How reach me: <h1> 
 <div> 
   <a href="https://www.linkedin.com/in/samuelhyrum" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-![Snake animation](https://github.com/Samuelhyrum/Samuelhyrum/blob/output/github-contribution-grid-snake.svg)
 </div> 
