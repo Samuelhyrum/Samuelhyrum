@@ -1,6 +1,6 @@
 ### Hello Everyone !! 👋 <h1>
 
-Me chamo Samuel Hyrum, atualmente estou estudando Desenvolvimento WEB Full-Stack na Trybe!! Sou apaixonado por Tecnologia e estou adorando aprender mais a cada dia, a fim de tornar a vida das pessoas por meio de tecnologia. Ansioso e feliz sempre pelo proximo passo!! 🖥️
+Me chamo Samuel Hyrum, atualmente estou estudando Desenvolvimento WEB Full-Stack na Trybe!! Sou apaixonado por Tecnologia e estou adorando aprender mais a cada dia, a fim de transformar a vida das pessoas por meio de tecnologia. Ansioso e feliz sempre pelo proximo passo!! 🖥️
  
  <br>
  <br>
