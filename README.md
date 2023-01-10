@@ -33,7 +33,6 @@ Me chamo Samuel Hyrum, atualmente estou estudando Desenvolvimento WEB Full-Stack
   
 ### How reach me: <h1> 
 <div> 
-   <a href = "samuelhymp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/samuelhyrum" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div> 
