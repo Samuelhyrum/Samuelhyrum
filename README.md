@@ -37,4 +37,4 @@ Me chamo Samuel Hyrum, atualmente estou estudando Desenvolvimento WEB Full-Stack
 
 </div> 
 
-![Snake animation](https://github.com/samuelhyrum/samuelhyrum/blob/output/github-contribution-grid-snake.animation)
+![Snake animation](https://github.com/Samuelhyrum/samuelhyrum/blob/output/github-contribution-grid-snake.animation)
