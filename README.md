@@ -35,6 +35,6 @@ Me chamo Samuel Hyrum, atualmente estou estudando Desenvolvimento WEB Full-Stack
 <div> 
   <a href="https://www.linkedin.com/in/samuelhyrum" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- ![Snake animation](https://github.com/Samuelhyrum/Samuelhyrum/blob/output/github-contribution-grid-snake.svg)
+[![Generate SVG image](https://github.com/Samuelhyrum/github-contributions-snake/actions/workflows/cron.yml/badge.svg)](https://github.com/scriptex/github-contributions-snake/actions/workflows/cron.yml)
  
 </div> 
