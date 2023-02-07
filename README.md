@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66CDAA&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FA8072&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Samuel+Hyrum;I'm+22+years+old;I'm+from+Brazil;I+Graduated+Web+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CB371&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Samuel+Hyrum;I'm+22+years+old;I'm+from+Brazil;I+Graduated+Web+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ### Hello Everyone !! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> <h1>
 
@@ -43,4 +43,4 @@ Me chamo Samuel Hyrum, atualmente estou estudando Desenvolvimento WEB Full-Stack
   <a href="https://www.linkedin.com/in/samuelhyrum" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:samuelhymp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA8072&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=120&section=footer"/>
