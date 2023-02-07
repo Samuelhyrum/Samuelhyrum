@@ -1,4 +1,8 @@
-### Hello Everyone !! 👋 <h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA8072&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FA8072&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Samuel+Hyrum;I'm+22+years+old;I'm+from+Brazil;I+Graduated+Web+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+### Hello Everyone !! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> <h1>
 
 Me chamo Samuel Hyrum, atualmente estou estudando Desenvolvimento WEB Full-Stack na Trybe!! Sou apaixonado por Tecnologia e estou adorando aprender mais a cada dia, a fim de transformar a vida das pessoas por meio de tecnologia. Ansioso e feliz sempre pelo proximo passo!! 🖥️
  
