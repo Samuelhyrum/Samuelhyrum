@@ -41,3 +41,4 @@ Me chamo Samuel Hyrum, atualmente estou estudando Desenvolvimento WEB Full-Stack
   <a href="https://www.linkedin.com/in/samuelhyrum" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:samuelhymp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA8072&height=120&section=footer"/>
