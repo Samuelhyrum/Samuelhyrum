@@ -14,6 +14,8 @@ Me chamo Samuel Hyrum, atualmente estou estudando Desenvolvimento WEB Full-Stack
   <a href="https://github.com/Samuelhyrum">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=samuelhyrum&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelhyrum&layout=compact&langs_count=7&theme=merko"/>
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Samuelhyrum&bg_color=000000&color=49ea34&line=a7a325&point=67f240&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
    
 </div>
 
