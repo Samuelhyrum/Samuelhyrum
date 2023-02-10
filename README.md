@@ -27,6 +27,8 @@ Me chamo Samuel Hyrum, atualmente estou estudando Desenvolvimento WEB Full-Stack
   <img align="center" alt="sam-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="sam-Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="sam-React"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="sam-Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img align="center" alt="sam-Hooks" src="https://img.shields.io/badge/React_Hooks-43853D?style=for-the-badge&logo=react&logoColor=white" />
   <img align="center" alt="sam-redux"  src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
   <br>
   <br>
@@ -36,7 +38,7 @@ Me chamo Samuel Hyrum, atualmente estou estudando Desenvolvimento WEB Full-Stack
   <img align="center" alt="sam-mocha"  src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white">
    <img align="center" alt="sam-docker"  src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
    <img align="center" alt="sam-express"  src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img align="center" alt="sam-express"  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img align="center" alt="sam-mongoDB"  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
  
 </div>
   
