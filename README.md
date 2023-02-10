@@ -29,9 +29,10 @@ Me chamo Samuel Hyrum, atualmente estou estudando Desenvolvimento WEB Full-Stack
   <img align="center" alt="sam-React"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="sam-Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
   <img align="center" alt="sam-Hooks" src="https://img.shields.io/badge/React_Hooks-43853D?style=for-the-badge&logo=react&logoColor=white" />
-  <img align="center" alt="sam-redux"  src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+  
   <br>
   <br>
+ <img align="center" alt="sam-redux"  src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
   <img align="center" alt="sam-mysql"  src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
    <img align="center" alt="sam-node"  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img align="center" alt="sam-jest"  src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
