@@ -30,6 +30,7 @@ Me chamo Samuel Hyrum, eu sou um Desenvolvedor WEB Full-Stack !! Sou apaixonado 
   <img align="center" alt="sam-React"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="sam-Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
   <img align="center" alt="sam-Hooks" src="https://img.shields.io/badge/React_Hooks-43853D?style=for-the-badge&logo=react&logoColor=white" />
+  <img align="center" alt="sam-Hooks" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   
   <br>
   <br>
