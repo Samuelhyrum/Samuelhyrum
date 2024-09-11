@@ -50,6 +50,10 @@ Me chamo Samuel Hyrum, eu sou um Desenvolvedor WEB Full-Stack !! Sou apaixonado 
   <a href = "mailto:samuelhymp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
  ![Snake animation](https://github.com/Samuelhyrum/samuelhyrum/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
+ <p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" title="Snake game" width="800px">
+</p>
+
 
 </div> 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=120&section=footer"/>
